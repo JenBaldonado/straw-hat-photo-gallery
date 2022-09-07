@@ -43,7 +43,7 @@ img {
 }
 
 .gallery::after {
-  content: "";
+  content: "" "";
   width: 350px;
 }
 
